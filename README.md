@@ -1,8 +1,8 @@
-# ecommerce-backend - 
+# ecommerce-backend
 
 
 ## Description
-This is the back end for an e-commerce site. 
+This is the back end for an e-commerce site.  It has fully functional API Routes to Perform RESTful CRUD Operations.
 
 ## User Story
 AS A manager at an internet retail company
